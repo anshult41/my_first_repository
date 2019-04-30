@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A6C-FBDB
+
+ Directory of C:\Users\anshul.thakral\Desktop\MyFirstProject
+
+30-04-2019  17:42    <DIR>          .
+30-04-2019  17:42    <DIR>          ..
+30-04-2019  17:42                 0 newbracnh.txt
+30-04-2019  15:41               361 text1.txt
+30-04-2019  15:50               409 text2.html
+               3 File(s)            770 bytes
+               2 Dir(s)  17,370,038,272 bytes free
